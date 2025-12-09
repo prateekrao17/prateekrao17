@@ -11,8 +11,9 @@ With experience across **AI-led learning**, **internal workflow tools**, **subsc
 🔗 LinkedIn: linkedin.com/in/prateek-rao-9b2a43285  
 💻 GitHub: github.com/prateekrao17  
 🎓 Certifications: **https://www.credly.com/users/prateek-rao.5058c6ad 
-💡 HackerRank: **https://www.hackerrank.com/profile/theprateekrao17  
-🧪 CodeChef: **https://www.codechef.com/users/theprateekrao1
+
+ 💡 HackerRank: **https://www.hackerrank.com/profile/theprateekrao17  
+ 🧪 CodeChef: **https://www.codechef.com/users/theprateekrao1
 
 ---
 
