@@ -10,6 +10,9 @@ With experience across **AI-led learning**, **internal workflow tools**, **subsc
 📫 Email: theprateekrao17@gmail.com  
 🔗 LinkedIn: linkedin.com/in/prateek-rao-9b2a43285  
 💻 GitHub: github.com/prateekrao17  
+🎓 Certifications: **https://www.credly.com/users/prateek-rao.5058c6ad 
+💡 HackerRank: **https://www.hackerrank.com/profile/theprateekrao17  
+🧪 CodeChef: **https://www.codechef.com/users/theprateekrao1
 
 ---
 
@@ -23,7 +26,7 @@ With experience across **AI-led learning**, **internal workflow tools**, **subsc
 
 ---
 
-## 📌 **Featured Product Case Studies**
+## 📌 **Featured Projects**
 
 ### 🟢 **1. Gullak — Vernacular Micro-Savings Product (PoC)**
 *A financial inclusion platform designed for rural women in India.*
