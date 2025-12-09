@@ -37,7 +37,7 @@ With experience across **AI-led learning**, **internal workflow tools**, **subsc
 - Designed onboarding, reward loops, habit-building flows  
 - Created metrics framework & feature backlog  
 
-📁 Repo: *Coming soon*  
+📁 Repo: **https://github.com/prateekrao17/Gullak--Proof-of-concept**  
 📄 Case Study: *Will upload here shortly*
 
 ---
