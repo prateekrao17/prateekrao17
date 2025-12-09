@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Prateek Rao**
-### Product Manager | Data & Analytics | AI-led EdTech | APM Aspirant
+### Product Management | Data & Analytics | AI | UX | APM Aspirant
 
 I build products that solve real user problems, driven by data, experimentation, and deep user understanding.  
 With experience across **AI-led learning**, **internal workflow tools**, **subscription funnels**, and **growth analytics**, I combine product thinking with technical execution to ship meaningful outcomes.
