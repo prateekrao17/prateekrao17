@@ -1,122 +1,84 @@
-# 👋 Hi, I'm **Prateek Rao**
-### Product Management | Data & Analytics | AI | UX 
+Prateek Rao
+Product Manager · AI Products · Data & Analytics
+I turn ambiguous problems into clear product decisions, workflows, and experiments.
 
-I build products that solve real user problems, driven by data, experimentation, and deep user understanding.  
-With experience across **AI-led learning**, **internal workflow tools**, **subscription funnels**, and **growth analytics**, I combine product thinking with technical execution to ship meaningful outcomes.
+My experience spans AI-assisted learning, creator campaign workflows, and growth analytics. I connect user needs, system constraints, and data to shape products—and distinguish clearly between shipped work, prototypes, and hypotheses that still need validation.
 
-💼 Currently: **Junior Product Associate at Uolo**  
-🎓 MBA (Finance & Operations) | B.Sc (CS & Physics)  
-📍 India  
-📫 Email: theprateekrao17@gmail.com  
-🔗 LinkedIn: linkedin.com/in/prateek-rao-9b2a43285  
-💻 GitHub: github.com/prateekrao17  
-🎓 Certifications: **https://www.credly.com/users/prateek-rao.5058c6ad 
+Portfolio · LinkedIn · Resume · Email
+Product strengths
+Area	Focus
+AI product design	Evaluation, human review, prompt refinement, failure modes, responsible automation
+Complex workflows	Marketplace flows, campaign execution, assignment evaluation, system boundaries
+Data-informed decisions	Funnel analysis, experimentation, product metrics, SQL, Python, Power BI
+0→1 product thinking	Problem framing, PRDs, MVP scoping, trade-offs, prototypes, validation plans
 
- 💡 HackerRank: **https://www.hackerrank.com/profile/theprateekrao17  
- 🧪 CodeChef: **https://www.codechef.com/users/theprateekrao1
 
----
+Featured work
+01 · AI Interview Coach
+Product concept · PRD & interactive prototype
 
-## 🚀 **What I Do**
-- Build & ship **AI-powered learning solutions**
-- Improve **activation, retention, and engagement** using analytics  
-- Collaborate across engineering, design & operations to ship end-to-end  
-- Translate ambiguous problems into **PRDs, flows, and experiments**
-- Use **data (SQL, Python, Power BI)** to drive product decisions  
-- Design user journeys and identify high-value segments  
+A concept helping job seekers practise interviews through realistic simulations and structured feedback.
+- Authored the PRD covering user needs, requirements, MVP scope, risks, and proposed success metrics.
+- Designed the conversational flow and evaluation approach.
+- Explored feedback quality, simulation realism, and the limits of automated assessment.
+Maturity: PRD / concept with interactive prototype—not a verified shipped AI service. PRD targets are proposed goals, not achieved outcomes.
 
----
+Repository & PRD · Interactive prototype
+02 · Reelax / Spotlyt
+Professional product experience · Creator campaign workflows
 
-## 📌 **Featured Projects**
+Spotlyt is Reelax’s campaign marketplace and creator-execution product, connecting brand campaign creation with creator workflows.
+- Owned PRDs and end-to-end user flows.
+- Worked on the core campaign-creation module architecture.
+- Translated product requirements into workflows and system boundaries.
+Maturity: Professional product experience; specific shipped scope and release dates are not confirmed here. Public descriptions are limited to high-level problem framing and general product methods. Confidential screens, creator/brand data, internal documents, and unverified metrics are excluded.
 
-### 🟢 **1. Gullak — Vernacular Micro-Savings Product (PoC)**
-*A financial inclusion platform designed for rural women in India.*
+Portfolio
+03 · Uolo — AI Assignment Evaluation
+Professional product experience · AI evaluation & human review
 
-**What I did:**  
-- Led concept, user research, and PRD design  
-- Designed onboarding, reward loops, habit-building flows  
-- Created metrics framework & feature backlog  
+Worked with AI engineers on evaluation and experimentation for AI-assisted assignment workflows.
+- Compared model outputs with teacher-grading baselines.
+- Reviewed errors and hallucinations across handwriting and text submissions.
+- Helped refine prompts and scoring approaches based on evaluation findings.
+Maturity: Professional product work. This description does not claim a verified launch, measured accuracy improvement, or quantified time savings.
 
-📁 Repo: **https://github.com/prateekrao17/Gullak--Proof-of-concept**  
-📄 Case Study: *Will upload here shortly*
+Portfolio
+Additional projects
+Project	Type	What it demonstrates
+Gullak — Suraksha aur Bachat · Prototype	Proof of concept	Financial-inclusion concept exploring vernacular onboarding, trust, nudges, and small-savings habits. Not a live financial service.
+Habit & Expense Tracker	Source-inspected MVP	Habit streaks, progress tracking, health logs, and notes. Hosted behaviour and complete expense functionality are unverified.
+Credit Card Fraud Detection	Study project	Python classification on an imbalanced public dataset. Saved notebook results have limitations; this is not a production fraud system.
+Amazon Sales Report Analysis	Analytics study	Exploratory analysis with a notebook and Power BI file. Dataset provenance and business impact are not established.
+Flipkart Mobile Data	Study project	Exploratory data analysis; data quality and provenance need further validation.
+AI & Data in Product Management	Academic project	Research and writing on AI in product management. Industry figures are not personal product outcomes.
 
----
 
-### 🟣 **2. AI Interview Coach — PRD + Flow Design**
-*AI-powered interview simulation & personalized feedback system.*
+Experience
+Role	Organisation	Period	Focus
+Product Manager	Reelax	Apr 2026 – Oct 2026	Creator campaign workflows; PRDs, end-to-end flows, campaign-creation architecture
+Product Associate	Uolo	Mar 2025 – 14 Apr 2026	AI-assisted learning workflows and assignment-evaluation experimentation
+Product Intern	Uolo	Earlier role; dates unconfirmed	Earlier product experience
+Product Analyst Intern	GoPaisa	Aug 2024 – Feb 2025	Growth and funnel analysis, including conversion and cashback-related drop-off
 
-**My contribution:**  
-- Wrote full PRD: feature list, user personas, metrics  
-- Designed conversational flow & evaluation logic  
-- Mapped north-star & success metrics  
 
-📁 Repo: `AI-Interview-Coach`  
-📄 Case Study: *Attached in repo*
+Product principles
+- Start with the problem. Understand user friction, context, and constraints before selecting a feature.
+- Make decisions explicit. Document scope, trade-offs, assumptions, and what will not be built.
+- Define evaluation early. Decide how to assess quality, failure modes, and user value.
+- Separate evidence from assumptions. Distinguish measured outcomes from proposed targets and qualitative learning.
+- Work across disciplines. Connect product, design, engineering, operations, and data.
+Toolkit
+Product: PRDs · User journeys · Problem framing · Prioritisation · Roadmaps · Experimentation · Agile / Scrum · Figma · Jira · Notion
 
----
+Data & analytics: SQL · Python · Pandas · Excel · Power BI · Funnel analysis · Segmentation · Product metrics
 
-### 🔵 **3. Credit Card Fraud Detection — ML + Data Pipeline**
-*A classification model to detect anomalous transactions.*
+Product & engagement tools: Mixpanel · WebEngage · Google Analytics · Google Tag Manager
+Education & credentials
+- MBA — Finance & Operations, Institute of Engineering and Technology
+- B.Sc. — Computer Science & Physics, Deen Dayal Upadhyaya University
+Credentials: Credly profile · Coursera profile
+Let’s connect
+Interested in product roles and collaborations involving AI products, fintech, creator workflows, and data-informed product decisions.
 
-**Highlights:**  
-- Built model using Python, Scikit-Learn  
-- Created EDA, geolocation-based anomaly flags  
-- Designed dashboard to analyze issue patterns  
-
-📁 Repo: `credit-card-fraud-detection`  
-📊 Tech: Python, Pandas, SKLearn
-
----
-
-### 🟡 **4. E-commerce Sales Analytics — Amazon & Flipkart**
-*Pricing, inventory, and user segmentation insights.*
-
-**Contributions:**  
-- Built dashboards (Power BI)  
-- Conducted clustering analysis for user segments  
-- Automated weekly reporting  
-
-📁 Repo: `ecommerce-sales-analytics`
-
----
-
-## 🛠 **Tech & Tools**
-
-**Product & PM:**  
-`PRD` · `User Research` · `Journey Mapping` · `Roadmaps` · `Agile / Scrum` · `Figma`
-
-**Data & Analytics:**  
-`Python` · `SQL` · `Pandas` · `A/B Testing` · `Power BI` · `Excel` · `Amplitude` · `Mixpanel` · `Google Analytics`
-
-**Other Tools:**  
-`Jira` · `Notion` · `WebEngage` · `GitHub` · `ERP Platforms`
-
----
-
-## 📈 **Professional Impact Highlights**
-
-- ⬆️ **50% reduction** in manual workflow steps by building internal supply chain product  
-- 📈 Improved classroom engagement by **25%** via cross-functional product delivery  
-- 🤖 Built & contributed to **AI-led learning tools** (Assignment Review AI + Conversational AI Coach)  
-- 📊 Identified high-value segments → boosted activity **1.5x**  
-- 📣 Improved acquisition & retention for Gopaisa by **10%** and **30%**  
-
----
-
-## 🎯 **What I'm Exploring Now**
-- Building product case studies around **activation, retention & habit loops**  
-- Designing **subscription funnel experiments**  
-- Prototyping **AI agents** for feedback loops  
-- Learning advanced **A/B testing & causal inference**
-
----
-
-## 📬 **Let’s Connect**
-If you’d like to collaborate, explore my projects, or discuss product roles—feel free to reach out!
-
-**📫 Email:** theprateekrao17@gmail.com  
-**🔗 LinkedIn:** linkedin.com/in/prateek-rao-9b2a43285  
-
----
-
-_Thanks for visiting my GitHub! More product case studies & dashboards coming soon._  
+Email · LinkedIn · Portfolio
