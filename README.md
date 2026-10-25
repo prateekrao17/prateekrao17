@@ -89,8 +89,7 @@ Worked with AI engineers on evaluation and experimentation for AI-assisted assig
 | Role | Organisation | Period | Focus |
 |---|---|---|---|
 | Product Manager | Reelax | Apr 2026 – Oct 2026 | Creator campaign workflows; PRDs, end-to-end flows, campaign-creation architecture |
-| Product Associate | Uolo | Mar 2025 – 14 Apr 2026 | AI-assisted learning workflows and assignment-evaluation experimentation |
-| Product Intern | Uolo | Earlier role; dates unconfirmed | Earlier product experience |
+| Product Associate | Uolo | Mar 2025 – 14 Apr 2026 |Classroom app + AI-assisted learning workflows and assignment-evaluation experimentation |
 | Product Analyst Intern | GoPaisa | Aug 2024 – Feb 2025 | Growth and funnel analysis, including conversion and cashback-related drop-off |
 
 ---
